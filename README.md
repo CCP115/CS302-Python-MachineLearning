@@ -5,12 +5,9 @@
 
 ## Video Explanation
 
-![Video Thumbnail](Title_Card.png "Video Thumbnail")
-
-[Click here to watch our results summary!](https://youtu.be/AzX0CtS6SAM)
-
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=AzX0CtS6SAM" target="_blank"><img src="http://img.youtube.com/vi/AzX0CtS6SAM/0.jpg" 
-alt="Video Thumbnail" width="240" height="180" border="10" /></a>
+alt="Video Thumbnail" width="640" height="480" border="10" /></a>
+Click the thumbnail to watch our results summary!
 
 ## Project Brief
 

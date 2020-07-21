@@ -1,23 +1,27 @@
-# COMPSYS 302 Project 1
+# SignAI
+## Python Machine Learning
+###### Created by Bill Yang & Cecil Symes
+###### COMPSYS302 Project 1
 
-## Group 18, Cecil Symes, Bill Yang
-### csym531, byan982
-### SignAI
- 
+## Video Explanation
 
-This repo contains our code for COMPSYS 302 Project 1.
+![Video Thumbnail](Title_Card.png "Video Thumbnail")
 
-COMPSYS302 is a paper based on Software Design. This project involved creating four neural networks using Python, PyTorch, and PyCharm.
-These four networks were created by us, as well as trained and tested by us.
+[Click here to watch our results summary!](https://youtu.be/AzX0CtS6SAM)
 
-Packages used include scikit-learn and scikit-image, matplotlib, pandas, seaborn, and PyTorch. Also included use of anaconda for managing virtual environments.
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=AzX0CtS6SAM" target="_blank"><img src="http://img.youtube.com/vi/AzX0CtS6SAM/0.jpg" 
+alt="Video Thumbnail" width="240" height="180" border="10" /></a>
 
+## Project Brief
 
+The goal of this project is to not only create four working models, but to also learn the inner workings of a neural network, how they operate, and what can be manipulated to change a network’s effectiveness.
 
-main.py contains the main executable code.
+## Project Notes
 
-The utils folder contains many helper functions used to handle user input, create a dataloader, among other things.
+This project involved creating four neural networks using Python, PyTorch, and PyCharm. These four networks were created by us, as well as trained and tested by us.Packages used include scikit-learn and scikit-image, matplotlib, pandas, seaborn, and PyTorch. Also included use of anaconda for managing virtual environments.
 
-The models folder contains all models used in our code.
+## Summary
 
-The data folder contains csv files with MNIST style image data for both training and testing.
+Our pair had very limited prior experience with Python and PyTorch as well as machine learning. After an initial learning period, we were able to successfully create four models, alongside numerous testing and helper functions.
+The results showed what we hoped for, with all models learning properly and achieving reasonable accuracy results. With more time, it could be possible to further increase the accuracy of our models, however this was outside the time scope of this project.
+Overall it was very enjoyable and fascinating to get to work on machine learning. It has become such a buzzword, it can be difficult to understand what it truly is. This project gave me new insight into the limitations of current machine learning, and its applications in the future on more complex problems.

@@ -6,7 +6,7 @@
 ## Video Explanation
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=AzX0CtS6SAM" target="_blank"><img src="http://img.youtube.com/vi/AzX0CtS6SAM/0.jpg" 
-alt="Video Thumbnail" width="320" height="200" border="10" /></a>
+alt="Video Thumbnail" width="320" height="240" border="10" /></a>
 
 Click the thumbnail to watch our results summary!
 

@@ -5,8 +5,9 @@
 
 ## Video Explanation
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=AzX0CtS6SAM" target="_blank"><img src="http://img.youtube.com/vi/AzX0CtS6SAM/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=AzX0CtS6SAM" target="_blank"><img src="https://github.com/CCP115/CS302-Python-MachineLearning/edit/master/Title_Card.png" 
 alt="Video Thumbnail" width="640" height="480" border="10" /></a>
+
 Click the thumbnail to watch our results summary!
 
 ## Project Brief

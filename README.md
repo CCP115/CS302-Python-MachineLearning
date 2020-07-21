@@ -10,13 +10,15 @@ alt="Video Thumbnail" width="320" height="240" border="10" /></a>
 
 Click the thumbnail to watch our results summary!
 
+##### For a detailed report on the project, download CecilFinalReport.pdf.
+
 ## Project Brief
 
 The goal of this project is to not only create four working models, but to also learn the inner workings of a neural network, how they operate, and what can be manipulated to change a network’s effectiveness.
 
 ## Project Notes
 
-This project involved creating four neural networks using Python, PyTorch, and PyCharm. These four networks were created by us, as well as trained and tested by us.Packages used include scikit-learn and scikit-image, matplotlib, pandas, seaborn, and PyTorch. Also included use of anaconda for managing virtual environments.
+This project involved creating four neural networks using Python, PyTorch, and PyCharm. These four networks were created by us, as well as trained and tested by us. Packages used include scikit-learn and scikit-image, matplotlib, pandas, seaborn, and PyTorch. Also included use of anaconda for managing virtual environments.
 
 ## Summary
 
